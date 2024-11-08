@@ -16,9 +16,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
 
-/* Source */
-@import url("https://raw.githubusercontent.com/letKliwyr/vencord-theme/refs/heads/main/ultra/Ultra.css");
-
 :root,
 .theme-dark {
     --text-normal: #d2d3d4;
