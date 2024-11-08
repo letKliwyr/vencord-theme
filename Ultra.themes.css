@@ -1,0 +1,63 @@
+/**
+ * @name Ultra
+ * @version 1.0.7
+ * @author TheCommieAxolotl#0001
+ * @authorId 538487970408300544
+ * @description A Smooth, Black theme
+ * @source https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/Ultra
+ * @website https://thecommieaxolotl.netlify.app/
+ * @donate https://github.com/sponsors/thecommieaxolotl
+ * @invite g2KnUw7u7N
+*/
+
+/* Imports */
+@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Imports/UserBadges.css");
+@import url("https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+/* Source */
+@import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Ultra/Clients/betterdiscord.css");
+
+:root,
+.theme-dark {
+    --text-normal: #d2d3d4;
+    --text-muted: #4a4a52;
+    --text-link: #6e6af6;
+    --text-positive: #50dc7d;
+    --text-warning: #8d4949;
+    --text-danger: #8d4949;
+    --text-brand: #6e6af6;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #c9ced0;
+    --corner-text: 'discord';
+    --interactive-muted: #4f545c;
+    --background-primary: #343e4617;
+    --background-secondary: #33455217;
+    --background-tertiary: #2e2e3f;
+    --background-accent: #304452;
+    --background-floating: rgba(67, 63, 83, 0.692)1c;
+    --modal-background: #31303a00;
+    --channeltextarea-background: #17161b;
+    --info-positive-text: #fff;
+    --info-warning-text: #fff;
+    --info-warning-foreground: #C4C4E3;
+    --info-danger-text: #fff;
+    --info-help-text: #fff;
+    --status-warning-text: #000;
+    --background-mentioned: #15222c;
+    --background-mentioned-hover: #acbdec15;
+    --background-message-hover: rgba(4, 4, 5, 0.07);
+    --scrollbar-auto-thumb: #C4C4E3;
+    --brand-experiment: #6e6af6;
+    --brand-experiment-hover: #6f6af64d;
+    --brand-experiment-560: #6e6af6;
+    --channels-default: #8d8da8;
+    --selected-indicator: #97ffa5;
+    --hover-indicator: #ffffff;
+    --font: "Lato";
+    --boost-bar: none;
+}
+
+/* Made By The Commie Axolotl */
