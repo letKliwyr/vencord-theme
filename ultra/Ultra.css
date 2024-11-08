@@ -707,7 +707,7 @@ code {
     margin: -7px;
 }
 
-.wordmarkWindows::after {
+[class^='wordmarkWindows']::after {
 	content: var(--discord-text);
 	display: block;
 	position: relative;
