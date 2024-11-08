@@ -707,6 +707,20 @@ code {
     margin: -7px;
 }
 
+.wordmarkWindows::after {
+	content: var(--discord-text);
+	display: block;
+	position: relative;
+	height: 16px;
+	line-height: 16px;
+	font-family: var(--font);
+	font-size: 13px;
+	font-weight: 900;
+	color: var(--text-5);
+	transform: scaleX(1.2);
+	margin-left: 6px;
+}
+
 .avatar-3QF_VA::before {
     height: 136px;
     width: 136px;
